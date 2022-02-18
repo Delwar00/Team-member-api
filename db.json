@@ -1,0 +1,25 @@
+{
+    "devs" : [
+        {
+            "id"            :1,
+            "name"          :"Delwar",
+            "Profession"    :"WordPress developer",
+            "age"           :12,
+            "photo"         :"https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png"
+        },
+        {
+            "id"            :2,
+            "name"          :"Aydin",
+            "Profession"    :"Laravel developer",
+            "age"           :10,
+            "photo"         :"https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png"
+        },
+        {
+            "id"            :3,
+            "name"          :"Rabbi",
+            "Profession"    :"MERN developer",
+            "age"           :9,
+            "photo"         :"https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        }
+    ]
+}

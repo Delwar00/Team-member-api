@@ -1,0 +1,14 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "This rest api for team member section using for react and mobile app developers",
+  "main": "index.js",
+  "scripts": {
+    "team" : "json-server --watch db.json --port 5050"
+  },
+  "author": "delwar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
